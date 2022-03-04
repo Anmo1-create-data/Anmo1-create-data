@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anmo1-create-data
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Deep learning
+- 🌱 I’m currently learning Deep learning and Honing my Skills with Practice
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, here's my email: anmol.dube1112@gmail.com
 
